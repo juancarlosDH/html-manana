@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway&display=swap');
+* {
+    font-family: 'Raleway', sans-serif;
+}
+h1 {
+     color : #445566;
+}
+img {
+    width : 200px;
+}
+
+li {
+    color : green;
+}
+
+li ol li {
+    color : blue;
+}
+
+#amarillo {
+    color: yellow;
+}
+
+.violeta {
+    color : violet;
+}
+
+
+
+
+
+
+
+/*
+
+
+
+
+*/
